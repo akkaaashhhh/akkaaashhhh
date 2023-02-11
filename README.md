@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey! I'm Akash, a computer enthusiast and an upcoming Developer</div>  
+### <div align="center">Hey!👋 I'm Akash, a computer enthusiast and an upcoming Developer</div>  
   
 
 - 💽 I’m currently learning React and Data Science   
