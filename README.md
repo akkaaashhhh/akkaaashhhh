@@ -6,20 +6,20 @@
 ### <div align="center">Hey!👋 I'm Akash, a computer enthusiast and an upcoming Developer</div>  
   
 
-- 💽 Currently learning
-            -> React 
-            -> Flutter
+- 💽 Currently learning <br>
+            -> React <br>
+            -> Flutter <br>
   
 
-- 🤖 Enthusiastic about
-            -> Data Science
-            -> Machine Learning
+- 🤖 Enthusiastic about<br>
+            -> Data Science<br>
+            -> Machine Learning<br>
   
 
-- 😉 Fun Facts
-            -> TLDR is my tea 
-            -> I type at a max speed of 108 wpm
-            -> I love sharing the knowledge that I earn
+- 😉 Fun Facts<br>
+            -> TLDR is my tea<br> 
+            -> I type at a max speed of 108 wpm<br>
+            -> I love sharing the knowledge that I earn<br>
   
 
 <br/>  
