@@ -20,7 +20,7 @@
 - 😉 Fun Facts<br>
             -> TLDR is my tea<br> 
             -> I type at a max speed of 108 wpm<br>
-            -> I love sharing the knowledge that I earn<br>
+            -> Expiry date of me not knowing something is 24 Hours<br>
   
 
 <br/>  
