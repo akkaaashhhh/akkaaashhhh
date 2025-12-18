@@ -7,19 +7,19 @@
   
 
 - 💽 Currently learning <br>
-            -> MERN Stack <br>
-            -> GoLang <br>
+            -> React Native <br>
+            -> Machine Learning <br>
   
 
 - 🤖 Enthusiastic about<br>
-            -> Data Science<br>
-            -> Machine Learning<br>
+            -> Software optimization<br>
             -> Blockchain<br>
   
 
 - 😉 Fun Facts<br>
-            -> TLDR is my tea<br> 
-            -> I type at a max speed of 108 wpm<br>
+            -> TLDR is my tea<br>
+            -> I am a damn good public speaker<br>
+            -> I type at a max speed of 127 wpm<br>
             -> Expiry date of me not knowing something is 24 Hours<br>
   
 
