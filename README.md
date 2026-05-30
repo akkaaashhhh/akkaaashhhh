@@ -86,8 +86,10 @@ Prefer systems that fail loudly and teach something
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akkaaashhhh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akkaaashhhh&layout=compact&hide_border=true&theme=tokyonight" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaaashhhh&theme=tokyonight)](https://github.com/akkaaashhhh)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akkaaashhhh&theme=tokyonight)](https://github.com/akkaaashhhh)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akkaaashhhh&theme=tokyonight)](https://github.com/akkaaashhhh)
 
 </div>
 
